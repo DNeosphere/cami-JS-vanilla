@@ -1,2 +1,2 @@
-# cami-JS-vanilla
-# cami-JS-vanilla
+# JS Vanilla
+
